@@ -5,8 +5,6 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3A2502.06361-b31b1b.svg)](https://arxiv.org/pdf/2502.06361)
 [![Video](https://img.shields.io/badge/video-YouTube-red.svg)](https://www.youtube.com/watch?v=cfQpgHbBx4o)
 
-Developed by SDU Soft Robotics, Biorobotics Section, The Maersk Mc-Kinney Moller Institute, University of Southern Denmark (SDU).
-
 ---
 
 ## Overview
@@ -87,12 +85,6 @@ If you use this platform or design files in your work, please cite:
   year    = {2025}
 }
 ```
-
-## Links
-
-- 📄 Paper: [arXiv:2502.06361](https://arxiv.org/pdf/2502.06361)
-- 🎥 Supporting video: [youtu.be/cfQpgHbBx4o](https://www.youtube.com/watch?v=cfQpgHbBx4o)
-- 🏫 SDU Soft Robotics, Biorobotics Section, University of Southern Denmark
 
 ## Acknowledgements
 
